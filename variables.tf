@@ -2,7 +2,7 @@ variable "key_name" {
 default = null
 }
 variable "region" {
-default = null
+default = ""
 }
 variable "ami" {
 default = null
